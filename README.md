@@ -1,30 +1,37 @@
 Aim:
+
 To create an cloud account in AWS and to explore all of its services.
 
 Procedure
-Step 1: Go to the AWS Website
+
+Step 1: 
+Go to the AWS Website
 • Visit https://aws.amazon.com
 
 • Click “Create an AWS Account” in the top right corner.
 
-Step 2: Enter Account Information
+Step 2: 
+Enter Account Information
 • Email address – Use a valid email you have access to.
 
 • Password – Create a strong password.
 
 • AWS account name – This is the name you want to associate with your AWS account (e.g., your name or company name).
 
-Step 3: Choose Account Type
+Step 3: 
+Choose Account Type
 • Personal or Professional – Select based on how you plan to use AWS.
 
 • Fill in your contact information (name, address, phone number).
 
-Step 4: Enter Payment Information
+Step 4: 
+Enter Payment Information
 • Provide credit/debit card details.
 
 Note: You won’t be charged immediately. AWS offers a Free Tier, but entering card details is mandatory.
 
-Step 5: Verify Your Identity
+Step 5:
+Verify Your Identity
 • Enter your phone number.
 
 • AWS will send a verification code via call or text.
